@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Voice Calculator</string>
+    <string name="result">O resultado sairá aqui</string>
+    <string name="calculate">Calcular</string>
+</resources>
